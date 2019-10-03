@@ -111,6 +111,7 @@ p {
 @media screen and (min-width: 90em) {
   .stories {
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 1.5em;
+    grid-gap: 1rem;
+    margin: 0 auto;
   }
 }
